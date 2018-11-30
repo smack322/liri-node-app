@@ -14,7 +14,6 @@ The chat bot provides a quick means for learning basics about your favorite movi
 
 Example output text from the terminal:
 
-
 mac$ node liri concert-this "John Mayer"
 Venue Name: Controlled Danger
 City: Las Vegas
@@ -60,3 +59,4 @@ Language: English, Mohawk
 Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
 Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
 ================================================================================
+
